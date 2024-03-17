@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farooqaziz09
-- 👀 I’m interested in CodeIgniter, Laravel, WordPress, Joomla,  Custom PHP, SQL (MySQL / Mysqli /PDO), Google Chrome extensions, SOAP/REST APIs, JQuery, JavaScript, HTML/CSS, Bootstrap, XML, Graphics /logo Designing, GIT/SVN, Photoshop/Illustrator etc
+- 👀 I’m an IT professional interested in web development, my skillset is in Laravel, CodeIgniter, WordPress, Joomla,  Core/Custom PHP, SQL (MySQL / Mysqli /PDO), Google Chrome extensions, SOAP/REST APIs, JavaScript, HTML/CSS, Bootstrap, XML, Graphics /logo Designing, GIT/SVN, Photoshop/Illustrator etc.
 - 🌱 I’m currently learning new techniques in web development and eager to learn new technologies.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me out on farooqaziz64@gmail.com | https://www.linkedin.com/in/farooq-aziz-a1b835a2/ 
